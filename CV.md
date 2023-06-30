@@ -39,3 +39,7 @@
 const greeting = "Hello world!";
 console.log(greeting);
 ```
+***
+### **Strengths:**
+#### • Attention to details • Good communication • Team player • Problem-solving skills • Creative thinker
+Responsible • Analytical mind • Learn new things on the fly • Self-motivated • Self-learning • Customer-Focused
