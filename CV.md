@@ -43,3 +43,8 @@ console.log(greeting);
 ### **Strengths:**
 #### • Attention to details • Good communication • Team player • Problem-solving skills • Creative thinker
 Responsible • Analytical mind • Learn new things on the fly • Self-motivated • Self-learning • Customer-Focused
+***
+### **Education:**
+#### 2022 *Software Testing of Web and Mobile Applications*/ Pornov Computer School, Sunnyvale, Ca
+#### 2020 *QA Manual*/IT-School, Belarus, Minsk
+#### 2005 *Bachelor’s Degree in Economics*/ Russian University of Cooperation, Moscow, Russia
