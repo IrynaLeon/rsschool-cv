@@ -32,3 +32,10 @@
 * **DataBases:** Oracle, MySQL
 * **IDE:** Android Studio, IntelliJ IDEA, Visual Studio Code, Postman
 * **Defect/Project Management:** Jira, Xray, Confluence
+
+***
+### **Code Examples:**
+```javascript
+const greeting = "Hello world!";
+console.log(greeting);
+```
