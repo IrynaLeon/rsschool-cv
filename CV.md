@@ -48,3 +48,13 @@ Responsible • Analytical mind • Learn new things on the fly • Self-motivat
 #### 2022 *Software Testing of Web and Mobile Applications*/ Pornov Computer School, Sunnyvale, Ca
 #### 2020 *QA Manual*/IT-School, Belarus, Minsk
 #### 2005 *Bachelor’s Degree in Economics*/ Russian University of Cooperation, Moscow, Russia
+***
+### **Languages:**
+* **Belarusian** - native speaker
+* **Russian** - native speaker
+* **English** - B1
+
+
+ >San Jose City Colledge - ESL Class
+
+> Irvine City Colledge - ESL Class
