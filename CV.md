@@ -24,3 +24,11 @@
 * Proficient in web technologies and services **HTML, CSS, GIT, REST API, SQL, XPath, JavaScript**
 * Self-motivated, fast learner, reliable, responsible, detail-oriented, effective communicator, strong verbal interpersonal, and auditing skills
 * Strong analytical mind
+***
+### **Technical Skills:**
+* **OS:** Windows, macOS, iOS, Android, Linux/UNIX
+* **Technology:** HTML, CSS, JavaScript, JSON, Git/Github
+* **Programming:** JavaScript, SQL
+* **DataBases:** Oracle, MySQL
+* **IDE:** Android Studio, IntelliJ IDEA, Visual Studio Code, Postman
+* **Defect/Project Management:** Jira, Xray, Confluence
