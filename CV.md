@@ -13,3 +13,14 @@
 #### **Email:** iryna.leanavets@gmail.com
 #### **Discord:** Irina L#3676
 #### [LinkedIn](https://www.linkedin.com/in/iryna-leanavets-823663271)
+
+***
+### **Professional summary:**
+* Experience in testing of Client/Server, Web-Based and Mobile applications
+* Solid understanding of software development lifecycle (**SDLC**) and software testing lifecycle (**STLC**)
+* Well-versed with open source and commercial test management and bug-tracking tools
+* Experienced in all project phases using **Agile Methodologies**
+* Exposure to test automation using **Selenium WebDriver/Cucumber/Jenkins**
+* Proficient in web technologies and services **HTML, CSS, GIT, REST API, SQL, XPath, JavaScript**
+* Self-motivated, fast learner, reliable, responsible, detail-oriented, effective communicator, strong verbal interpersonal, and auditing skills
+* Strong analytical mind
