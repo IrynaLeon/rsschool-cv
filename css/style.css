@@ -127,12 +127,20 @@ main {
     flex-direction: column;
     gap: 10px;
 }
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
+
+/* footer styles */
+footer {
+    height: 50px;
+    background-color: rgb(73, 69, 69);
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    font-size: 1em;
+    gap: 50px;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
+
+footer svg {
+    height: 40px;
+    width: 40px;
 }
